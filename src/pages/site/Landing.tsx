@@ -14,8 +14,7 @@ import {
   ShieldCheckIcon,
   UsersRoundIcon,
   GraduationCap,
-  SunriseIcon,
-  Sparkles
+  SunriseIcon
 } from 'lucide-react';
 import { SiteLayout } from '../../components/marketing/SiteLayout';
 import { institutions, platformStats } from '../../data/institutions';
@@ -274,7 +273,7 @@ export function Landing() {
             transition={{ duration: 0.5 }}
           >
             <div className="flex flex-wrap gap-2">
-              {fragmented.map((source, index) => (
+              {fragmented.map((source) => (
                 <motion.span
                   key={source}
                   whileHover={{ scale: 1.05 }}

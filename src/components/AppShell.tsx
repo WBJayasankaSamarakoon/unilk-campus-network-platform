@@ -32,7 +32,6 @@ import { ThemeMenu } from './ThemeMenu';
 import { PersonaMenu } from './PersonaMenu';
 import { useRole } from '../contexts/RoleContext';
 import { currentUser } from '../data/user';
-import { institutions } from '../data/institutions';
 import { notifications } from '../data/notifications';
 
 const myCampusNav = [
