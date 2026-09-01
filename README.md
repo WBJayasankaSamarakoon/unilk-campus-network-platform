@@ -1,4 +1,4 @@
-<img width="1919" height="911" alt="Screenshot 2026-08-25 114720" src="https://github.com/user-attachments/assets/a8eb0adf-44d6-4309-8842-a49fc776baf1" />
+<img width="1441" height="907" alt="Screenshot 2026-08-25 114629" src="https://github.com/user-attachments/assets/e04b56bb-19e7-4b3c-ad5a-26abb8b5b132" />
 # UniLK Campus Network Platform 🎓🇱🇰
 
 > **Unified Campus Network & Student Community Platform for Sri Lankan Higher Education**
@@ -125,8 +125,8 @@ unilk-campus-network-platform/
 
 ---
 ## 📸 Screenshots & UI Previews
-<img width="1441" height="907" alt="Screenshot 2026-08-25 114629" src="https://github.com/user-attachments/assets/e04b56bb-19e7-4b3c-ad5a-26abb8b5b132" />
 <img width="1919" height="911" alt="Screenshot 2026-08-25 114720" src="https://github.com/user-attachments/assets/a8eb0adf-44d6-4309-8842-a49fc776baf1" />
+<img width="1916" height="911" alt="Screenshot 2026-08-25 114859" src="https://github.com/user-attachments/assets/8b5c0b1e-fcce-4ea4-a917-a93e44565caf" />
 <img width="1919" height="909" alt="Screenshot 2026-08-25 115937" src="https://github.com/user-attachments/assets/79b5ff1a-d205-4495-b74c-5b37b7b3b2ac" />
 <img width="267" height="512" alt="image" src="https://github.com/user-attachments/assets/7731b7f5-427d-43f1-8ba0-cad7bf121c4b" />
 <img width="267" height="515" alt="image" src="https://github.com/user-attachments/assets/661db265-58c9-46a4-b7fd-683d5fdc077e" />
