@@ -1,4 +1,5 @@
-<img width="1916" height="911" alt="Screenshot 2026-08-25 114859" src="https://github.com/user-attachments/assets/6a1b0b4a-24df-4054-a45a-2c654f30791d" /># UniLK Campus Network Platform 🎓🇱🇰
+<img width="1919" height="911" alt="Screenshot 2026-08-25 114720" src="https://github.com/user-attachments/assets/a8eb0adf-44d6-4309-8842-a49fc776baf1" />
+# UniLK Campus Network Platform 🎓🇱🇰
 
 > **Unified Campus Network & Student Community Platform for Sri Lankan Higher Education**
 
