@@ -1,6 +1,7 @@
 {
-  "name": "magic-patterns-vite-template",
-  "version": "0.0.1",
+  "name": "unilk-campus-network-platform",
+  "version": "1.0.0",
+  "description": "UniLK - Unified Campus Network and Student Platform for Sri Lankan Higher Education",
   "private": true,
   "type": "module",
   "scripts": {
